@@ -1,0 +1,1 @@
+export type CJP = (url: string, data: any, headers?: { [key: string]: any }) => Promise<any>
